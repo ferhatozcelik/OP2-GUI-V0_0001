@@ -1,0 +1,41 @@
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\OP2 GUI V0_0001.exe.config
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\OP2 GUI V0_0001.exe
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\OP2 GUI V0_0001.pdb
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.csprojAssemblyReference.cache
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.CleaningProcess.resources
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.Measurements.resources
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.OnProduction.resources
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.ProductionParameters.resources
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.RefProduction.resources
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.Properties.Resources.resources
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.csproj.GenerateResource.cache
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.csproj.CoreCompileInputs.cache
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.exe
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.pdb
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.PostProcessing.resources
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.Initialize.resources
+C:\Users\SDU-Energy\source\repos\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\OP2 GUI V0_0001.exe.config
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\OP2 GUI V0_0001.exe
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\OP2 GUI V0_0001.pdb
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.csprojAssemblyReference.cache
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.csproj.ResolveComReference.cache
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.CleaningProcess.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.Initialize.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.Measurements.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.OnProduction.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.PostProcessing.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.ProductionParameters.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.RefProduction.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.exe
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.pdb
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\itextsharp.dll
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.csproj.CopyComplete
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\MetroSet UI.dll
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2_GUI_V0_0001.Sqlashcs.resources
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\OP2 GUI V0_0001.exe.manifest
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\bin\Debug\OP2 GUI V0_0001.application
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.exe.manifest
+C:\Users\Ferhat\Desktop\OP2_GUI_V0_0001\OP2 GUI V0_0001\OP2 GUI V0_0001\obj\Debug\OP2 GUI V0_0001.application
